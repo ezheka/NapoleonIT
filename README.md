@@ -7,4 +7,4 @@
 
 ***
 Для преключения между проетами в решении нужно изменить **пункт "начальный проект"**
-![screenshot](https://github.com/ezheka/NapoleonIT/blob/master/NapoleonIT.jpg)
+![screenshot](https://github.com/ezheka/NapoleonIT/blob/main/NapoleonIT.jpg)
